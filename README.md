@@ -38,7 +38,10 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+
 Bridge rectifier with filter:
+[beee4.pdf](https://github.com/user-attachments/files/26047778/beee4.pdf)
+
 
 TABULAR COLUMN
 Rectifier without filter
